@@ -1,0 +1,14 @@
+
+
+# production
+build
+dist
+chrome64位离线安装包.exe
+
+.idea
+*.sublime-*
+.vscode
+*.yarn
+
+data.xlsx
+**.pyc
